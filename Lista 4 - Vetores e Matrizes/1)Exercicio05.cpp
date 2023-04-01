@@ -1,0 +1,1 @@
+//5. Leia um vetor de 10 posicoes. Contar e escrever quantos valores pares ele possui

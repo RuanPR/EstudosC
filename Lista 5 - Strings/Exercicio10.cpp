@@ -1,0 +1,1 @@
+//10. Faca um programa que receba uma palavra e a imprima de tras-para-frente

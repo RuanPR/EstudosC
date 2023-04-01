@@ -1,0 +1,1 @@
+//1. Crie uma funcao que recebe como parametro um numero inteiro e devolve o seu dobro.

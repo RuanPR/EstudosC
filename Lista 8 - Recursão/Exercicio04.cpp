@@ -1,0 +1,1 @@
+//4. Crie uma funcao recursiva que receba dois inteiros positivos k e n e calcule k**n

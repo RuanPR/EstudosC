@@ -1,0 +1,1 @@
+//7. Crie um programa que compara duas strings (nao use a funcao strcmp).
